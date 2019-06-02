@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329442308478",
+    "firebase_url": "https://ex5postpc.firebaseio.com",
+    "project_id": "ex5postpc",
+    "storage_bucket": "ex5postpc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329442308478:android:1f4560a59a5fe3b9",
+        "android_client_info": {
+          "package_name": "com.example.ex5_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329442308478-j9o0j1kdrrbuah1ng6p99n8a7tdc5tht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPvg4lvbO9XsBnCWIEEaBWefJ2m125ApU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329442308478-j9o0j1kdrrbuah1ng6p99n8a7tdc5tht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
